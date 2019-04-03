@@ -26,6 +26,6 @@ public class HomeController extends Controller {
         return ok(views.html.tutorial.render());
     }
     public Result test() {
-    	return ok("subrat sahu123");
+    	return ok("subrat sahu123345");
     }
 }
